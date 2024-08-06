@@ -1,1 +1,1 @@
-# N-Body-System
+# N Body System
